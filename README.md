@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **iqbal.elham7@gmail.com**
 
-- 📄 Know about my experiences [https://iqbal-elham.github.io/Personal-Portfolio/Styles/Mohammad%20Iqbal%20Elham.pdf](https://iqbal-elham.github.io/Personal-Portfolio/Styles/Mohammad%20Iqbal%20Elham.pdf)
+- 📄 Know about my experiences [My Resume](./Mohammad_Iqbal_Elham_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
