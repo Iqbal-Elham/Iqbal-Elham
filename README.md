@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Django, MongoDb, React**
 
-- 👨‍💻 All of my projects are available at [https://iqbal-elham.github.io/Personal-Portfolio](https://iqbal-elham.github.io/Personal-Portfolio)
+- 👨‍💻 All of my projects are available at [MY Portfolio](https://iqbal-elham.github.io/Personal-Portfolio)
 
-- 💬 Ask me about **Python, Java, Bootstrap**
+- 💬 Ask me about **Python, Java, JavaScript**
 
 - 📫 How to reach me **iqbal.elham7@gmail.com**
 
