@@ -30,7 +30,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/iqbalelham"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iqbalelham" /></a></p><br><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqbal-elham" alt="iqbal-elham" /></a> </p>
+<br> 
+<br>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqbal-elham" alt="iqbal-elham" /></a> </p>
 <br>
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbal-elham&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=151515" alt="iqbal-elham" />
