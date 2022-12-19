@@ -32,9 +32,11 @@
 <p><a href="https://www.buymeacoffee.com/iqbalelham"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iqbalelham" /></a></p><br><br>
 <br> 
 <br>
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqbal-elham" alt="iqbal-elham" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqbal-elham" alt="iqbal-elham" /></a> </p>
 <br>
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbal-elham&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=151515" alt="iqbal-elham" />
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=iqbal-elham&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Iqbal Elham Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbal-elham&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=151515" alt="iqbal-elham" />
+  <br>
+  <br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbal-elham&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Iqbal Elham Github Stats">
 
