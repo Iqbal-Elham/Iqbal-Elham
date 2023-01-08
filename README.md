@@ -43,11 +43,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqbal-elham" alt="iqbal-elham" /></a> </p>
 <br>
 <div>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbal-elham&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Iqbal Elham Github Stats">
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iqbal-elham&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Iqbal Elham Github Stats"></p>
   <br>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbal-elham&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=151515" alt="iqbal-elham" />
+ <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbal-elham&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=151515" alt="iqbal-elham" /></p>
    
-  ### ✍️Random Dev Quote
+ ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
