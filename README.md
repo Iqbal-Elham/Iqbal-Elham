@@ -47,4 +47,7 @@
   <br>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbal-elham&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=151515" alt="iqbal-elham" />
+   
+  ### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
