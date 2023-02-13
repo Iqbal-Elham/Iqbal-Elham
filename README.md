@@ -14,8 +14,8 @@
 
 - 📄 Know about my experiences [My Resume](https://iqbal-elham.github.io/Personal-Portfolio/Styles/Mohammad_Iqbal_Elham.pdf)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbal-elham&label=Profile%20views&color=0e75b6&style=flat" alt="iqbal-elham" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbal-elham&label=Profile%20views&color=0e75b6&style=flat" alt="iqbal-elham" /> </p>
+-->
 <h3 align="left">Connect with me:</h3>
 
    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/iqbal.elh/) 
@@ -50,4 +50,12 @@
    
  ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<a href="" align='center'><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/iqbal-elham/count.svg" />
+</p>
+
 
