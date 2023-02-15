@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Second Handed Bookstore](https://github.com/Iqbal-Elham/Second-Handed-Bookstore)
 
-- 🌱 I’m currently learning **Django, MongoDb, React**
+- 🌱 I’m currently learning **MongoDb, React**
 
 - 👨‍💻 All of my projects are available at [MY Portfolio](https://iqbal-elham.github.io/Personal-Portfolio)
 
