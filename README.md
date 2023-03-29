@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React-redux**
 
-- 👨‍💻 All of my projects are available at [MY Portfolio](https://iqbal-elham.onrender.com/)
+- 👨‍💻 All of my projects are available at [MY Portfolio](https://iqbal-elham.onrender.com/static/media/Mohammad_Iqbal_CV.5fb3ae9d11100998e5c2.pdf)
 
 - 💬 Ask me about **Python, Java, JavaScript**
 
