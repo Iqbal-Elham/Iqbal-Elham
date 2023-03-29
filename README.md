@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **React-redux**
 
-- 👨‍💻 All of my projects are available at [MY Portfolio](https://iqbal-elham.onrender.com/static/media/Mohammad_Iqbal_CV.5fb3ae9d11100998e5c2.pdf)
+- 👨‍💻 All of my projects are available at [MY Portfolio](https://iqbal-elham.onrender.com)
 
 - 💬 Ask me about **Python, Java, JavaScript**
 
 - 📫 How to reach me **iqbal.elham7@gmail.com**
 
-- 📄 Know about my experiences [My Resume](./Mohammad_Iqbal_CV.pdf)
+- 📄 Know about my experiences [My Resume](https://iqbal-elham.onrender.com/static/media/Mohammad_Iqbal_CV.5fb3ae9d11100998e5c2.pdf)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbal-elham&label=Profile%20views&color=0e75b6&style=flat" alt="iqbal-elham" /> </p>
 -->
