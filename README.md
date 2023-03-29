@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **iqbal.elham7@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://iqbal-elham.github.io/Personal-Portfolio/Styles/Mohammad_Iqbal_Elham.pdf)
+- 📄 Know about my experiences [My Resume](https://iqbal-elham.github.io/Personal-Portfolio/Styles/Mohammad_Iqbal_CV.pdf)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbal-elham&label=Profile%20views&color=0e75b6&style=flat" alt="iqbal-elham" /> </p>
 -->
