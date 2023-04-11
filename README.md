@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [MY Portfolio](https://iqbal-elham.onrender.com)
 
-- 💬 Ask me about **Python, Java, JavaScript**
+- 💬 Ask me about **Python, JavaScript and PostgreSQL**
 
 - 📫 How to reach me **iqbal.elham7@gmail.com**
 
