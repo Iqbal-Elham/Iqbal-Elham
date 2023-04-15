@@ -58,7 +58,10 @@
    
 <h2 align="left">✍️Random Dev Quote:</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha) 
+<div align="center"> 
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="iqbal-elham" />
+<div />
+<br>
 
 <a href="" align='center'><img src="contributions.svg"></a>
 
