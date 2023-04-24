@@ -55,9 +55,6 @@
   </a>
 </p>
 <br>
-<br>
-   
-<!--  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbal-elham&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40" alt="iqbal-elham" /></p> -->
    
 <h2 align="left">✍️Random Dev Quote:</h2>
 
