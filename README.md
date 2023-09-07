@@ -16,8 +16,6 @@
 
 - 📄 Know about my experiences [My Resume](https://iqbal-elham.onrender.com/static/media/Mohammad_Iqbal_CV.5fb3ae9d11100998e5c2.pdf)
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbal-elham&label=Profile%20views&color=0e75b6&style=flat" alt="iqbal-elham" /> </p>
--->
 <h2 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=7.5% /> Connect with me:</h2>
 
    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/iqbal.elh/) 
