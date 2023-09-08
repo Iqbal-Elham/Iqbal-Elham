@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iqbal-elham&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Iqbal Elham Github Stats"> &emsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbal-elham&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=0,000000,130F40&hide_border=true" alt="iqbal-elham" />
      <br>
      <br>
-     <img width=59% src="https://github-readme-activity-graph.cyclic.app/graph?username=iqbal-elham&layout=compact&show_icons=true&count_private=true&theme=react-dark" alt="GitHub Stats" />
+<!--      <img width=59% src="https://github-readme-activity-graph.cyclic.app/graph?username=iqbal-elham&layout=compact&show_icons=true&count_private=true&theme=react-dark" alt="GitHub Stats" /> -->
   </a>
 </p>
 <br>
