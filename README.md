@@ -6,7 +6,7 @@
 
 <!-- - 🔭 I’m currently working on [Second Handed Bookstore](https://iqbalel.pythonanywhere.com) -->
 
-- 🌱 I’m currently learning **Odoo ERP**
+- 🌱 I’m currently learning **Deluge Script**
 
 - 👨‍💻 All of my projects are available at [MY Portfolio](https://iqbal-elham.onrender.com)
 
