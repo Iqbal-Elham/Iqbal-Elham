@@ -43,7 +43,7 @@
 <!-- <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=3% /> My Stats:</h2> -->
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqbal-elham" alt="iqbal-elham" /></a> </p> -->
 
-<br>
+<!-- <br>
 <p align="center">
   <a href="https://github.com/iqbal-elham/">
   <img src="https://github-readme-stats.vercel.app/api?username=iqbal-elham&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true" alt="Iqbal Elham Github Stats"> &emsp; 
@@ -53,7 +53,7 @@
      
   </a>
 </p>
-<br>
+<br> -->
    
 <h2 align="left">✍️Random Dev Quote:</h2>
 
